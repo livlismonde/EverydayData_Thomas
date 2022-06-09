@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+<body onload="startTime()">
+
+<div id="txt"></div>
+<a href="/thomas-spreadsheet"
+      ><video class="cover" src="image/GOPRO EDIT THOMAS1280x720.m4v" autoplay muted loop alt=""
+    /></a>
+<a href="/thomas-spreadsheet" class="button1">Thomas Boni - Lier</a>
+<a href="/index" class="button2">Everyday Data</a>
+
+
+    <style>
+        body {
+          margin: 0;
+          height: 100vh;
+          overflow: hidden;
+        }
+  
+        .cover {
+          width: 100vw;
+          height: 100vh;
+          object-fit: cover;
+          z-index: 1;
+        }
+
+        .button1{
+        color: rgb(255, 255, 255);
+        text-align: left;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: light;
+        font-family: "Roboto Mono", sans-serif;
+        position:absolute;
+        right: 0;
+        top: 15px;
+        right: 20px;
+        z-index: 1999;
+
+}
+
+        .button2{
+        color: rgb(255, 254, 254);
+        text-align: left;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: regular;
+        font-family: "Roboto Mono", sans-serif;
+        position:absolute;
+        left: 0;
+        top: 15px;
+        left: 20px;
+        z-index: 1999;
+
+}
+
+        div {
+        color: rgb(255, 255, 255);
+        text-align: left;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: regular;
+        font-family: "Roboto Mono", sans-serif;
+        position:absolute;
+        right: 0;
+        top: 40px;
+        right: 20px;
+        z-index: 1999;
+
+}
+
+      </style>
+
+<script>
+function startTime() {
+  const today = new Date();
+  let h = today.getHours();
+  let m = today.getMinutes();
+  let s = today.getSeconds();
+  m = checkTime(m);
+  s = checkTime(s);
+  document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+  setTimeout(startTime, 1000);
+}
+
+function checkTime(i) {
+  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+  return i;
+}
+</script>
+
+</body>
+</html>

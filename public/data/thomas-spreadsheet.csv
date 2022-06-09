@@ -1,0 +1,62 @@
+ranking,object,description,width,x,height,colour,price,image
+1,book,Martin Margiela / Lafayette Anticipations,110,x,200,pink,"5.00",margiela_pink.jpg
+2,book,The incidents / BEYOND THE COLLABORATION / Sturling Ruby & Raf Simons,135,x,210,green,"12.00",raf_simons.jpg
+3,book,Vaast Colson / 99/09,170,x,230,white,"30.00",fluo.jpg
+4,book,Maarten Van Severen / Ludion,170,x,230,blue,"10.00",van_severen.jpg
+5,book,Karel Martens / Re-Printed Matter,173,x,232,white,"35.00",karel_martens.jpg
+6,book,100 chairs in 100 days and its 100 ways / Martino Gamper,145,x,240,white,"20.00",100chairs.jpg
+7,book,Pierre Bismuth / Centre Pompidou,190,x,245,multi,"32.00",paris.jpg
+8,book,Muller Van Severen / Dialogue,185,x,255,yellow,"49.80",van_severen_big.jpg
+9,book,Eurotopie ,190,x,266,white,"25.00",eurotopie.jpg
+10,book,(cat.) / Sergio De Beukelaer,230,x,295,blue,"70.00",sdb.jpg
+11,book,Martin Margiela at Lafayette Anticipations,237,x,313,white,"49.00",margiela_postits.jpg
+12,book,Present tense / Jil Sander,257,x,325,white,"59.00",jil_sander.jpg
+13,book,Symphony for a  Beloved Sun / Anish Kapoor,240,x,350,white,"15.00",anish_kapoor.jpg
+14,candle,Oud candle 190g / Diptyque,75,x,75,white,"54.00",oud.jpg
+15,ashtray,Egyptian yellow marble,120,x,120,yellow,"0.00",ashtray.jpg
+16,cutting boards,Re-circles set/3 / Muller Van Severen,210,x,210,multi,"124.00",cutting_board.jpg
+17,sunglasses,Asos Design / aviator fashion glasses in black with orange lens,145,x,35,black,"12.99",glasses.jpg
+18,one playing card,Playing card printed on the back,55,x,87,red,"25.00",card.jpg
+19,watch,Hp quarts watch from my grandmother,27,x,210,brown,"0.00",watch.jpg
+20,passport,Passport on the name Thomas Boni,87,x,125,red,"75.00",passport.jpg
+21,parfum sample,Parfum sample / Loewe Esencia,10,x,60,transparant ,"0.00",parfum.jpg
+22,matches,Matches / Necessities,23,x,56,white,"0.00",matches.jpg
+23,lighter,Printes pink lighter / Bic,20,x,60,pink,"1.50",lighter_pink.jpg
+24,lighter,Bright blue lighter / Bic,25,x,67,blue,"2.00",lighter_blue.jpg
+25,remote control,Remote control for led strip,50,x,89,multi,"4.99",remote.jpg
+26,keychain,Yellow penis keychain / JW Anderson,70,x,170,yellow,"115.00",dick.jpg
+27,keychain,Visiomatic keychain,30,x,75,multi,"1.00",keychain.jpg
+28,keychain,Staple book keychain,35,x,100,white,"1.00",le_tierce.jpg
+29,candleholder,Arcs candleholder / HAY design / Muller Van Severen,55,x,90,grey,"35.00",candle_holder.jpg
+30,tealight,Tealight candleholder clear/ Iittala Kastehelmi,64,x,64,transparant ,"16.90",iitala_candle.jpg
+31,tealight,Tealight candleholder clear/ Iittala Kastehelmi,64,x,64,transparant ,"16.90",iitala_candle.jpg
+32,tealight,Tealight candleholder clear/ Iittala Kastehelmi,64,x,64,transparant ,"16.90",iitala_candle.jpg
+33,bottle of negroni,Negroni for love / designed by Liv and Thomas,60,x,60,red,"0.00",negroni.jpg
+34,folded newspaper,DeMorgen. / wednesday 23.02.2022,315,x,240,white,"2.00",de_morgen.jpg
+35,book,Disobedient Bodies / JW Anderson / 142 pages / 2000 copies,310,x,230,multi,"70.00",jw_andersson.jpg
+36,magazine,Rekto Verso / Zorgen,210,x,297,white,"0.00",rekto_verso.jpg
+37,magazine,Reveue Faire / To look at things,210,x,297,multi,"7.00",revue.jpg
+38,magazine,Reveue Faire / Regarder le graphisme,210,x,297,multi,"7.00",revue2.jpg
+39,magazine,"Verveling / Verveeling / Vervelling / Jan De Vylder, Inge Vinck",230,x,297,white,"25.00",excel.jpg
+40,magazine,On the TYPP of the tongue,230,x,290,grey,"0.00",typp.jpg
+41,magazine,A magazine curated by Maison Martin Margiela 2021,230,x,295,white,"35.00",margiela_magazine.jpg
+42,magazine,The perfect document / Thomas Min,215,x,295,multi,"25.00",min.jpg
+43,publication,A0 = 1m2 / Thomas Boni,210,x,297,white,"10.00",magazine.jpg
+44,magazine,Knack weekend / mode + de grote vintage modegids,225,x,285,black,"6.95",knack.jpg
+45,publication,Route N16,200,x,265,multi,"15.00",nature.jpg
+46,catalog ,Dries Van Noten / Len Lye / Viviane Sassen / Spring/Summer 2021,200,x,260,white,"35.00",dvn.jpg
+47,publication,The Serving Library ,170,x,240,multi,"20.00",scan_magazine.jpg
+48,publication,The Serving Library ,170,x,240,multi,"20.00",scan_magazine.jpg
+49,poem,De koffie plus het neuken,170,x,215,white,"0.00",poem.jpg
+50,publication,De rozentuin / Ayrton Eblé,150,x,210,white,"0,00",ayrton.jpg
+51,publication,Universal Measures,140,x,215,grey,"0.00",typp2.jpg
+52,reading book,Het boek van de reis / Bernard Werber,123,x,214,white,"7.50",bernard_werber.jpg
+53,voucher,20 euro voucher,210,x,100,yellow,"20.00",voucher.jpg
+54,bill,IItala shop,65,x,87,white,"0.00",iitala.jpg
+55,sticker,QR-code golden ratio calculator,100,x,100,red,"0.00",qr.jpg
+56,passport photos,6 passport photos from which 1 has been cut out,150,x,100,white,"8.00",passphoto.jpg
+57,sculpture,Sculpture made out of my initials,83,x,210,grey,"0.00",logo.jpg
+58,framed picture,Photography by Inge Grognard & Ronals Stoops,240,x,180,white,"0.00",ronald.jpg
+59,laptop,Silver macbook pro 13 inch / M1‑chip / 256 GB storage,304,x,212,grey,"1648.00",mac_thomas.jpg
+60,pen,Black muji pen ,145,x,10,black,"1.90",muji_black.jpg
+61,pen,Red muji pen ,145,x,10,red,"1.90",muji_red.jpg
